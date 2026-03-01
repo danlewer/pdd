@@ -1,0 +1,21 @@
+Group,Outcome,Treatment,3mth_point,3mth_lower,3mth_upper,12mth_point,12mth_lower,12mth_upper,36mth_point,36mth_lower,36mth_upper
+1,Reoffending,Total,0.124,0.12,0.127,0.26,0.255,0.265,0.386,0.381,0.392
+1,Reoffending,Diversion force,0.117,0.113,0.122,0.25,0.243,0.256,0.377,0.37,0.384
+1,Reoffending,Control force,0.133,0.127,0.139,0.276,0.268,0.284,0.399,0.39,0.407
+1,Reoffending,Diverted,0.075,0.069,0.08,0.183,0.175,0.191,0.299,0.289,0.309
+1,Reoffending,Not diverted,0.143,0.138,0.147,0.29,0.284,0.296,0.42,0.414,0.427
+1,Drug Treatment,Total,0.022,0.021,0.024,0.053,0.05,0.055,0.101,0.097,0.104
+1,Drug Treatment,Diversion force,0.022,0.02,0.024,0.051,0.048,0.054,0.1,0.096,0.105
+1,Drug Treatment,Control force,0.023,0.02,0.025,0.055,0.051,0.059,0.101,0.095,0.106
+1,Drug Treatment,Diverted,0.017,0.015,0.02,0.04,0.036,0.045,0.086,0.08,0.092
+1,Drug Treatment,Not diverted,0.024,0.022,0.026,0.057,0.054,0.061,0.106,0.102,0.111
+2,Reoffending,Total,0.317,0.312,0.323,0.498,0.492,0.505,0.637,0.63,0.643
+2,Reoffending,Diversion force,0.338,0.329,0.346,0.521,0.511,0.53,0.666,0.657,0.676
+2,Reoffending,Control force,0.299,0.291,0.306,0.477,0.468,0.487,0.609,0.6,0.618
+2,Reoffending,Diverted,0.312,0.276,0.347,0.497,0.456,0.535,0.644,0.603,0.681
+2,Reoffending,Not diverted,0.318,0.312,0.323,0.498,0.491,0.505,0.637,0.63,0.643
+2,Drug Treatment,Total,0.041,0.038,0.044,0.099,0.094,0.103,0.174,0.167,0.18
+2,Drug Treatment,Diversion force,0.044,0.04,0.048,0.105,0.098,0.112,0.178,0.169,0.188
+2,Drug Treatment,Control force,0.038,0.034,0.042,0.093,0.087,0.099,0.169,0.161,0.178
+2,Drug Treatment,Diverted,0.074,0.052,0.095,0.147,0.115,0.179,0.258,0.213,0.301
+2,Drug Treatment,Not diverted,0.04,0.037,0.043,0.097,0.093,0.102,0.171,0.165,0.177
